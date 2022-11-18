@@ -1,4 +1,8 @@
-### Hi there 👋
+### WELCOME! 👋
+
+Hello there!
+My name is Nathan Chau and I'm currently a 1st year in Electrical Engineering at UCI, but I hope to switch to Computer Science.  
+Check out my [LinkedIn](https://www.linkedin.com/in/nlchau2004/)
 
 <!--
 **Nlchau2004/Nlchau2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
