@@ -1,7 +1,6 @@
-### WELCOME! 👋
+# WELCOME!
 
-Hello there!
-My name is Nathan Chau and I'm currently a 1st year in Electrical Engineering at UCI, but I hope to switch to Computer Science.  
+### Hi there! I'm Nathan, a 1st year Electrical Engineering (Changing to Computer Science) Student @ UCI. 
 Check out my [LinkedIn](https://www.linkedin.com/in/nlchau2004/)
 
 <!--
