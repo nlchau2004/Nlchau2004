@@ -1,9 +1,8 @@
-# WELCOME!
 ![Banner](Banner.jpg)
 ### Hi there! I'm Nathan, a 1st year Electrical Engineering (Changing to Computer Science) Student @ UCI. 
 I've always been interested in hardware and software aspect of computers. My current goal is to learn how to develop an application and a website, but I also wish to learn about other languages and frameworks such as: C++, React, Node.js, and more. My hobbbies are video games, anime, and guitar. Looking forward to meeting you! 
 
-Clubs:  
+### Clubs:  
 - Hack @ UCI
 - ICSSC (Information and Computer Science Student Council)
 - JSA (Japanese Student Association)  
