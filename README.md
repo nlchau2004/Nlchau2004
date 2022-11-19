@@ -1,6 +1,13 @@
 # WELCOME!
 
 ### Hi there! I'm Nathan, a 1st year Electrical Engineering (Changing to Computer Science) Student @ UCI. 
+I've always been interested in hardware and software aspect of computers. Right now, I'm trying to learn how to learn C++ and web development.  
+
+Clubs:  
+- Hack @ UCI
+- ICSSC (Information and Computer Science Student Council)
+- JSA (Japanese Student Association)  
+
 Check out my [LinkedIn](https://www.linkedin.com/in/nlchau2004/)
 
 <!--
